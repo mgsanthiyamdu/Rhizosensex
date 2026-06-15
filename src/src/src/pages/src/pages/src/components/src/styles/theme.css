@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.app-container {
+  display: flex;
+}
+
+.main-content {
+  padding: 20px;
+}
